@@ -27,6 +27,9 @@
     "runpython",
     "deletefile",
     "reboot",
+"rosinstall",
+"rossetup",
+"rosconfig",
     "shutdown"
   ]
 }

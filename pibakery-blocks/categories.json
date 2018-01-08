@@ -24,6 +24,11 @@
       "name": "other",
       "display": "Other",
       "colour": "290"
+    },
+    {
+      "name": "ros",
+      "display": "ROS",
+      "colour": "20"
     }
   ]
 }

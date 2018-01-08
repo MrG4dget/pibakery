@@ -25,6 +25,11 @@ Change into the newly downloaded directory with
 </br>
 `cd pibakery`
 
+
+Install npm from
+</br>
+https://nodejs.org/en/download/
+
 And install the required node modules using
 </br>
 `npm install`
